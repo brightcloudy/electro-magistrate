@@ -7,3 +7,8 @@ lock
 old
 goodmorning.json
 
+# .directory file (KDE file manager)
+.directory
+
+# vim swap files
+.*.swp
